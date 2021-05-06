@@ -1,4 +1,4 @@
-# Anime Lolis and Free sotfware (as in freedom)
+# Anime Lolis and Free software (as in freedom)
 
 ![stats](https://github-readme-stats.vercel.app/api?username=0kalekale&show_icons=true)
 
