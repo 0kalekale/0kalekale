@@ -5,4 +5,4 @@
 contacts:
   - rizon (kalekale)
   - discord (0kalekale#1488)
-  -   - mail (kalekale.anon@gmail.com)
+  - mail (kalekale.anon@gmail.com)
