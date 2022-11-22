@@ -4,4 +4,4 @@ if in case you want to [contact me](https://kalekale.ga/contact.html)
 
 also [bad apple](https://badapple.kalekale.ga)
 
-slowly moving away from github, considering gitlab
+slowly moving away from github, ~considering gitlab~ now on [gitlab!](https://gitlab.com/0kalekale)
